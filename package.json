@@ -1,0 +1,7 @@
+{
+  "name": "bili-downloader",
+  "version": "1.0.0",
+  "dependencies": {
+    "electron": "^13.0.1"
+  }
+}

@@ -8,6 +8,6 @@ bdownloader:
 	cp -r resources output
 
 clean:
-	rm -rf output
+	rm -rf output vendor
 
 
